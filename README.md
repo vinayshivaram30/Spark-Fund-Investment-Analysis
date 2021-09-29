@@ -69,4 +69,3 @@ mapping.csv:
 
 This file maps the numerous category names in the companies table (such 3D printing, aerospace, agriculture, etc.) to eight broad sector names.
 The purpose is to simplify the analysis into eight sector buckets, rather than trying to analyse hundreds of them.
-
